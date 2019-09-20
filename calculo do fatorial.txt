@@ -1,0 +1,21 @@
+
+
+            int i = 1;
+            int n=4 ;
+            int   Fat = 1;
+
+            
+          
+            while (i<=n)
+            {
+
+
+                Fat = Fat * i;
+                i++;
+            }
+            Console.WriteLine(Fat + "!");
+
+        }
+    }
+}
+            
